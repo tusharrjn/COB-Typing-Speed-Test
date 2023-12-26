@@ -5,4 +5,4 @@ I have developed this typing speed tester using HTML5, CSS, DOM and Javascript. 
 ![image](https://github.com/tusharrjn/COB-Typing-Speed-Test/blob/main/Screenshot%20(102).png)
 
 
-link to website -> https://shreyagarwal13.github.io/typing-speed-test/
+link to website -> https://github.com/tusharrjn/COB-Typing-Speed-Test/
